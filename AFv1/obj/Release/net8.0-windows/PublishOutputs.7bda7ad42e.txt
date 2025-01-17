@@ -1,0 +1,13 @@
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\AFv1.exe
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\AFv1.dll
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\AFv1.deps.json
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\AFv1.runtimeconfig.json
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\AFv1.pdb
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\MathNet.Numerics.dll
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\NAudio.dll
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\NAudio.Asio.dll
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\NAudio.Core.dll
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\NAudio.Midi.dll
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\NAudio.Wasapi.dll
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\NAudio.WinForms.dll
+D:\fredschanuelgh\AfinadorDigital\AFv1\AFv1\bin\Release\net8.0-windows\publish\NAudio.WinMM.dll
